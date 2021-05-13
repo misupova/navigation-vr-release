@@ -6,7 +6,7 @@ To participate in this experiment, you will need:
 
 ##  1. Download and install SideQuest tool (skip to the next step if you already have it installed)
 
-To do that, please use instructions from SideQuest website: https://sidequestvr.com/setup-howto
+To do that, please use instructions from SideQuest website: <https://sidequestvr.com/setup-howto>
 Please note that you will need to create an Oculus developer account to be able to sideload apps to Quest.
 
 ## 2. Connect your Quest to the computer using a USB Type-C cable. 
@@ -14,7 +14,7 @@ Do not forget to allow USB debugging in Quest.
 
 ## 3. Install the experimental application to your headset
 
-Follow this link: https://sidequestvr.com/app/4192/vr-navigation-experiment-variant-2
+Follow this link: <https://sidequestvr.com/app/4192/vr-navigation-experiment-variant-2>
 Then press the button "INSTALL TO HEADSET" in the top right corner. It should automatically take you to the SideQuest app. The app will begin downloading and then installing — you can check the progress in the downloads tab on the app's toolbar.
 
 Once the install is finished, the progress bar will read "Success". Additionally, you will see a "Task finished" pop-up at the bottom of your screen.
