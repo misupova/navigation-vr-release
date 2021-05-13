@@ -15,9 +15,9 @@ Do not forget to allow USB debugging in Quest.
 ### 3. Install the experimental application to your headset
 
 Follow this link: <https://sidequestvr.com/app/4192/vr-navigation-experiment-variant-2>
-Then press the button "INSTALL TO HEADSET" in the top right corner. It should automatically take you to the SideQuest app. The app will begin downloading and then installing — you can check the progress in the downloads tab on the app's toolbar.
+Then press the button "INSTALL TO HEADSET" in the top right corner. It should automatically take you to the SideQuest app. If you are not redirected automatically, you can search for "VR Navigation Experiment - variant 2" directly in the SideQuest application. The app will begin downloading and then installing — you can check the progress in the downloads tab on the app's toolbar.
 
-Once the install is finished, the progress bar will read "Success". Additionally, you will see a "Task finished" pop-up at the bottom of your screen.
+Once the install is finished, the progress bar will read "Success". Additionally, you will see an "All tasks completed!" pop-up at the bottom of your screen.
 
 ### 4. Launch the application on your headset and participate in the experiment!
 
