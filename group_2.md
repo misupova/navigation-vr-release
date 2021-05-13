@@ -3,6 +3,7 @@ To participate in this experiment, you will need:
 - Oculus Quest or Oculus Quest 2
 - Computer, on which you are ready to install software to sideload applications on Quest
 - Type-C cable to connect Quest to the computer
+- Make sure that your VR headset is connected to the internet, otherwise it won't be possible to record your results
 
 ###  1. Download and install SideQuest tool (skip to the next step if you already have it installed)
 
